@@ -12,3 +12,10 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/LyraXen/Scripts/refs/heads/main/SuperRing'))()
 ```
+
+## Prizz Admin (Prison Life)
+
+* Source: [https://raw.githubusercontent.com/devguy100/PrizzLife/main/pladmin.lua](https://raw.githubusercontent.com/devguy100/PrizzLife/main/pladmin.lua)
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/devguy100/PrizzLife/main/pladmin.lua'))()
+```
