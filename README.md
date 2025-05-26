@@ -1,4 +1,4 @@
-Just a bunch of scripts that I maade
+Just a bunch of scripts that I made or found that are cool
 
 ## Super Ring Parts V7
 
