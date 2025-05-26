@@ -1,1 +1,1 @@
-<pre> ```python print("Hello, world!") ``` </pre>
+<pre> ```js console.log("hello"); ``` </pre>
