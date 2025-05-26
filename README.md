@@ -5,5 +5,4 @@ Just a bunch of scripts that I maade
 * Source: [https://raw.githubusercontent.com/LyraXen/Scripts/refs/heads/main/SuperRing](https://raw.githubusercontent.com/LyraXen/Scripts/refs/heads/main/SuperRing)
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/LyraXen/Scripts/refs/heads/main/SuperRing'))()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/LyraXen/Scripts/refs/heads/main/SuperRing'))()
 ```
