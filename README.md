@@ -19,3 +19,10 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/LyraXen/Scripts/refs/
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/devguy100/PrizzLife/main/pladmin.lua'))()
 ```
+
+## Thunder Client V2 (Arsenal)
+
+* Source: [https://raw.githubusercontent.com/andrewdarkyyofficial/thunderclient/main/main.lua](https://raw.githubusercontent.com/andrewdarkyyofficial/thunderclient/main/main.lua)
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/andrewdarkyyofficial/thunderclient/main/main.lua'))();
+```
