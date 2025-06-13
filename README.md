@@ -6,7 +6,7 @@ Just a bunch of scripts that I made or found that are cool
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 ```
 ## SimpleSpy
-* Source: [loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/78n/SimpleSpy/main/SimpleSpyBeta.lua"))()](loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/78n/SimpleSpy/main/SimpleSpyBeta.lua"))())
+* Source: [https://raw.githubusercontent.com/78n/SimpleSpy/main/SimpleSpyBeta.lua](https://raw.githubusercontent.com/78n/SimpleSpy/main/SimpleSpyBeta.lua)
 ```lua
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/78n/SimpleSpy/main/SimpleSpyBeta.lua"))()
 ```
